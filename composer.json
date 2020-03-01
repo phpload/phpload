@@ -2,8 +2,7 @@
     "name": "phpload/phpload",
     "description": "phpload application - dlc downloadmanager for linux",
     "require": {
-        "phpload/core": "dev-master",
-        "phpload/uploaded-premiumaccount": "dev-master" 
+        "phpload/core": "dev-master"
     },
     "repositories": [
         {
