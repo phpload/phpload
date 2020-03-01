@@ -1,0 +1,5 @@
+vendor/
+common/database
+!common/database/.gitkeep
+console/logs
+!console/logs/.gitkeep

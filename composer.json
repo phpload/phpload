@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpload/core": "dev-master",
+        "phpload/uploaded-premiumaccount": "dev-master" 
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
